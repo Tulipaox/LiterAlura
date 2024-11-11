@@ -17,11 +17,11 @@ LiterBooks é uma aplicação prática e intuitiva que permite acessar uma vasta
 | Funcionalidade                    | Visual                                                   |
 |-----------------------------------|----------------------------------------------------------|
 | Menu Interativo                   | ![Menu](./src/main/java/Img/projetoLiterMenu.gif)        |
-| Busca por Título                  | ![Busca por Título](![projetoLiter1](https://github.com/user-attachments/assets/458d95ed-4c69-4403-9258-c89238935084) |
-| Listar Livros no Banco de Dados   | ![Livros no BD](![projetoliter2](https://github.com/user-attachments/assets/b9274690-7aaa-4f11-af2e-99add85ca56f)   |
-| Listar Autores no Banco de Dados  | ![Autores no BD](![projetoliter3](https://github.com/user-attachments/assets/9192a5a7-5550-481a-ae7f-f9b3250dec89)  |
-| Filtrar Autores Vivos em Ano Específico | ![Autores Vivos](![projetoliter4](https://github.com/user-attachments/assets/6bd6846e-527d-4324-86bd-d9eb3c40fc79) |
-| Filtrar Livros por Idioma         | ![Filtro por Idioma](![projetoliter5](https://github.com/user-attachments/assets/e281179c-05b7-4f68-a00e-90c9eb09c70c) |
+| Busca por Título                  | ![Busca por Título](https://github.com/user-attachments/assets/458d95ed-4c69-4403-9258-c89238935084) |
+| Listar Livros no Banco de Dados   | ![Livros no BD](https://github.com/user-attachments/assets/b9274690-7aaa-4f11-af2e-99add85ca56f)   |
+| Listar Autores no Banco de Dados  | ![Autores no BD](https://github.com/user-attachments/assets/9192a5a7-5550-481a-ae7f-f9b3250dec89)  |
+| Filtrar Autores Vivos em Ano Específico | ![Autores Vivos](https://github.com/user-attachments/assets/6bd6846e-527d-4324-86bd-d9eb3c40fc79) |
+| Filtrar Livros por Idioma         | ![Filtro por Idioma](https://github.com/user-attachments/assets/e281179c-05b7-4f68-a00e-90c9eb09c70c) |
 
 ## 🛠️ Tecnologias Utilizadas
 
