@@ -36,9 +36,10 @@ LiterBooks é uma aplicação prática e intuitiva que permite acessar uma vasta
 1. Clone o repositório:
    ````bash
    git clone https://github.com/Tulipaox/LiterAlura.git
+
    ```` 
 
- ### Modo de usar
+### Modo de usar 
 <p>Clone o projeto e baixe na sua máquina.</p> 
 <p>Primeiro, abra a pasta resources.
 Troque as variáveis de ambiente pelas suas variáveis ou pelos seus dados do PostgreSQL. 
