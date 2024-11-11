@@ -34,9 +34,9 @@ LiterBooks é uma aplicação prática e intuitiva que permite acessar uma vasta
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
+   ````bash
    git clone https://github.com/Tulipaox/LiterAlura.git
-
+   ````
 ### Modo de usar
 <p>Clone o projeto e baixe na sua máquina.</p> 
 <p>Primeiro, abra a pasta resources.
