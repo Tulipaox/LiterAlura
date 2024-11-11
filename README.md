@@ -34,10 +34,11 @@ LiterBooks é uma aplicação prática e intuitiva que permite acessar uma vasta
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-   ```bash
+   ````bash
    git clone https://github.com/Tulipaox/LiterAlura.git
+   ``` 
 
-### Modo de usar
+ ### Modo de usar
 <p>Clone o projeto e baixe na sua máquina.</p> 
 <p>Primeiro, abra a pasta resources.
 Troque as variáveis de ambiente pelas suas variáveis ou pelos seus dados do PostgreSQL. 
@@ -48,9 +49,3 @@ Pronto! Fazendo isso, você já consegue utilizar a aplicação.
 
 📂 Estrutura do Projeto
 A estrutura do projeto foi organizada para facilitar a manutenção e evolução da aplicação, seguindo boas práticas de desenvolvimento e divisão modular de responsabilidades.
-
-## 📄 Licença
-
-````declarative
-MIT License
-````
