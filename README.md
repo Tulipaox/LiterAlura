@@ -36,7 +36,7 @@ LiterBooks é uma aplicação prática e intuitiva que permite acessar uma vasta
 1. Clone o repositório:
    ````bash
    git clone https://github.com/Tulipaox/LiterAlura.git
-   ``` 
+   ```` 
 
  ### Modo de usar
 <p>Clone o projeto e baixe na sua máquina.</p> 
@@ -46,6 +46,3 @@ Crie um banco de dados para começar a salvar no banco.
 Pronto! Fazendo isso, você já consegue utilizar a aplicação.
 </p>
 <img src="./src/main/java/Img/projetoliterResouces.jpg">
-
-📂 Estrutura do Projeto
-A estrutura do projeto foi organizada para facilitar a manutenção e evolução da aplicação, seguindo boas práticas de desenvolvimento e divisão modular de responsabilidades.
