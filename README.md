@@ -47,10 +47,9 @@ Pronto! Fazendo isso, você já consegue utilizar a aplicação.
 </p>
 <img src="./src/main/java/Img/projetoliterResouces.jpg">
 
-## 📄 Licença
-
 ### 📂 Estrutura do Projeto
 <p>A estrutura do projeto foi organizada para facilitar a manutenção e evolução da aplicação, seguindo boas práticas de desenvolvimento e divisão modular de responsabilidades.</p>
 
+## 📄 Licença
 Este projeto está licenciado sob a **MIT License**. Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
